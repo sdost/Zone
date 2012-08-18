@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>debug</key>
+	<dict>
+		<key>defaultBallMaxSpeed</key>
+		<string>15</string>
+		<key>defaultBallMinSpeed</key>
+		<string>8</string>
+		<key>defaultBallInitialSpeed</key>
+		<string>11</string>
+		<key>ballTrajectoryAdjustFactor</key>
+		<string>50</string>
+		<key>ballTrajectoryThreshold</key>
+		<string>2</string>
+		<key>paddleReflectionMultiplier</key>
+		<string>15</string>
+		<key>defaultSpriteFrameRate</key>
+		<string>30</string>
+		<key>maxGridObjects</key>
+		<string>500</string>
+		<key>defaultTileWidth</key>
+		<string>8</string>
+		<key>defaultTileHeight</key>
+		<string>8</string>
+		<key>defaultGridWidth</key>
+		<string>40</string>
+		<key>defaultGridHeight</key>
+		<string>40</string>
+		<key>ballAnimationSet</key>
+		<string>ball_anim.plist</string>
+	</dict>
+</dict>
+</plist>
