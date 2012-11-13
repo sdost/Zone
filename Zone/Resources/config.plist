@@ -4,30 +4,32 @@
 <dict>
 	<key>debug</key>
 	<dict>
+		<key>popupTextLifetime</key>
+		<integer>750</integer>
 		<key>defaultBallMaxSpeed</key>
-		<string>15</string>
+		<integer>15</integer>
 		<key>defaultBallMinSpeed</key>
-		<string>8</string>
+		<integer>8</integer>
 		<key>defaultBallInitialSpeed</key>
-		<string>11</string>
+		<integer>11</integer>
 		<key>ballTrajectoryAdjustFactor</key>
-		<string>50</string>
+		<integer>50</integer>
 		<key>ballTrajectoryThreshold</key>
-		<string>2</string>
+		<integer>2</integer>
 		<key>paddleReflectionMultiplier</key>
-		<string>15</string>
+		<integer>15</integer>
 		<key>defaultSpriteFrameRate</key>
-		<string>30</string>
+		<integer>30</integer>
 		<key>maxGridObjects</key>
-		<string>500</string>
+		<integer>500</integer>
 		<key>defaultTileWidth</key>
-		<string>8</string>
+		<integer>8</integer>
 		<key>defaultTileHeight</key>
-		<string>8</string>
+		<integer>8</integer>
 		<key>defaultGridWidth</key>
-		<string>40</string>
+		<integer>40</integer>
 		<key>defaultGridHeight</key>
-		<string>40</string>
+		<integer>40</integer>
 		<key>ballAnimationSet</key>
 		<string>ball_anim.plist</string>
 	</dict>
